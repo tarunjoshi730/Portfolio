@@ -1,2 +1,8 @@
 # Portfolio
-Description_about_self
+
+## Description_about_self
+
+Technology Used :
+-----------------
+- HTML 
+- CSS
